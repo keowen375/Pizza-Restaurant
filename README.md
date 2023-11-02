@@ -82,3 +82,4 @@ Add validations to Restaurant Model:
      - api = Api(app) # same way to initialize api but this time, it is coming from restx and not restful
    - on the routes:
      - from flask_restx import namespace
+-
