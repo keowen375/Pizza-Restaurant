@@ -1,6 +1,6 @@
 # Pizza-Restaurant
 
-# THE PIZZERIA
+# LA PIZZERIA
 
 ### Flask Code Challenge - Pizza Restaurants
 
